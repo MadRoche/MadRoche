@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MadRoche
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning AWS Stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on learning AWS from scratch
+- 📫 How to reach me is not important.
 
 <!---
 MadRoche/MadRoche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
